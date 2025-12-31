@@ -1,0 +1,130 @@
+/* --- Global Body Styles --- */
+body {
+	font-family: Arial, sans-serif;
+	max-width: 800px;
+	margin: 40px auto;
+	padding: 20px;
+	line-height: 1.6;
+	color: #333;
+}
+
+/* --- Layout Components --- */
+.copyright-header {
+	font-size: 0.85em;
+	background: #eee;
+	padding: 15px;
+	border: 1px solid #ccc;
+	margin-bottom: 30px;
+	text-align: left;
+	line-height: 1.4;
+}
+
+h1 {
+	text-align: center;
+	color: #111;
+	margin-bottom: 5px;
+}
+
+.subtitle {
+	text-align: center;
+	font-style: italic;
+	color: #555;
+	margin-bottom: 40px;
+}
+
+h2 {
+	border-bottom: 2px solid #444;
+	padding-bottom: 5px;
+	margin-top: 35px;
+	color: #222;
+}
+
+/* --- Master Navigation Styling --- */
+.main-nav {
+	background-color: #0a0a0a; /* Sleek dark background */
+	padding: 20px 0;
+	margin-bottom: 40px;
+	border-bottom: 4px solid #0056b3; /* Thick 'Force' blue accent */
+	box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.nav-container {
+	max-width: 1000px; /* Wider to fit full book titles */
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	padding: 0 20px;
+}
+
+.nav-link {
+	color: #e0e0e0;
+	text-decoration: underline; /* Standard underlined links */
+	font-weight: 700;
+	font-size: 0.80em; 
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	transition: all 0.3s ease;
+	padding: 8px 12px;
+}
+
+.nav-link:hover {
+	color: #ffffff;
+	text-decoration: none; /* Removes underline on hover for visual lift */
+	background-color: rgba(0, 86, 179, 0.2); 
+}
+
+.active-page {
+	color: #0056b3 !important;
+	text-decoration: none !important;
+	border-bottom: 2px solid #0056b3;
+}
+
+/* --- Buttons & Content Boxes --- */
+.download-box {
+	text-align: center;
+	margin: 40px 0;
+	padding: 30px;
+	border: 2px solid #eee;
+	background-color: #fcfcfc;
+	border-radius: 8px;
+}
+
+.license-text {
+	font-size: 0.95em;
+	color: #444;
+	background: #f4f4f4;
+	padding: 15px;
+	border-left: 5px solid #ccc;
+	margin-top: 20px;
+	text-align: left;
+}
+
+.btn {
+	display: inline-block;
+	padding: 15px 25px;
+	background-color: #0056b3;
+	color: white;
+	text-decoration: none;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.btn:hover {
+	background-color: #004494;
+}
+
+/* --- Mobile Responsive Rules --- */
+@media (max-width: 850px) {
+	.nav-container {
+		flex-direction: column;
+		gap: 15px;
+		text-align: center;
+	}
+	
+	.nav-link {
+		font-size: 0.80em;
+		letter-spacing: 1px;
+	}
+}
