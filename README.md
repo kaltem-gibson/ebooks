@@ -33,7 +33,7 @@ The research contained in this archive—specifically the **Hexagram Force** ser
 
    *Please be advised that this is only a small part of what is taught in this particular book.*
 
-* **Hexagram Force: Characteristics (Technical Ebook)**
+* **Hexagram Force: Action at a Distance (Technical Ebook)**
 
    This work demonstrates how universal force cycles manifest through numerical patterns and force-triads on a 12-point clock. By analyzing geometric roles—Creative, Corrupt, Good, and Limitative—it reveals the structural alignment between universal laws and sequences like 333 and 666.
 
