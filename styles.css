@@ -1,9 +1,46 @@
+/* Basic reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Header styling */
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px 20px;
+	background-color: #f8f8f8; /* light gray background */
+	border-bottom: 1px solid #ddd;
+}
+
+/* Logo styling */
+.logo {
+	display: flex;
+	align-items: center;
+}
+
+.logo img {
+	height: 60px; /* desktop default height */
+	width: auto;/* keeps aspect ratio */
+	max-width: 200px; /* prevent it from being too big */
+}
+
+/* Site name text */
+.site-name {
+	font-size: 1.5rem;
+	font-weight: bold;
+	margin-left: 10px; /* space between logo and text */
+	color: #333;
+}
+
 /* --- Global Body Styles --- */
 body {
 	font-family: Arial, sans-serif;
 	max-width: 800px;
-	margin: 40px auto;
-	padding: 20px;
+	margin: 20px auto;
+	padding: 9px;
 	line-height: 1.6;
 	color: #333;
 }
@@ -126,5 +163,19 @@ h2 {
 	.nav-link {
 		font-size: 0.80em;
 		letter-spacing: 1px;
+	}
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 600px) {
+.logo img {
+	height: 45px; /* smaller logo for mobile */
+	max-width: 150px;
+	}
+	.site-name {
+		font-size: 1.2rem;
+	}
+	header {
+		padding: 8px 15px;
 	}
 }
