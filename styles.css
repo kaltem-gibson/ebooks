@@ -163,14 +163,14 @@ img {
 
 /* Amazon button style */
 .btn-amazon {
-	background-color: #cc7a00;
+	background-color: #2e7d32;
 	
 	color: #ffffff;
 	margin-top: 15px;
 }
 
 .btn-amazon:hover {
-	background-color: #a36200;
+	background-color: #1b5e20;
 	color: #ffffff;
 }
 
