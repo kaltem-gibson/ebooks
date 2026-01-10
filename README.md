@@ -3,6 +3,15 @@
 
 ---
 
+## 🎁 Amazon Reader's Gift
+As mentioned in my author profile, you can access the digital editions of the Force framework below for study and verification.
+
+* 📖 [**Read: Hexagram Force: Vol 1**](https://kaltem-gibson.github.io/ebooks/hexagram-force-unified-field-theory.html)
+* 📖 [**Read: Hexagram Force: Vol 2**](https://kaltem-gibson.github.io/ebooks/hexagram-force-characteristics.html)
+* 📖 [**Read: Unleash Your Telekinetic Ability**](https://kaltem-gibson.github.io/ebooks/unleash-your-telekinetic-ability.html)
+
+---
+
 ## About me, the Author
 I, Kaltem M. Gibson, am a theoretical researcher and author specializing in the plane geometry of universal force, telekinesis, and EMF radiation. My groundbreaking work bridges the gap between mathematical structures and physical reality, uncovering the positional mechanics that govern everything from planetary motion to human potential. By challenging established paradigms, I provide a blueprint for understanding Force—whether it manifests through internal perception or within the structural architecture of the universe.
 
