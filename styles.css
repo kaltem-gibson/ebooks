@@ -10,9 +10,35 @@ header {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 10px 20px;
+	padding: 5px 5px;
 	background-color: #f8f8f8; /* light gray background */
 	border-bottom: 1px solid #ddd;
+}
+
+/* Urgency Alert Box */
+.urgency-container {
+	background-color: #fff4e5; /* Light warning orange/gold */
+	border-left: 6px solid #b71c1c; /* Deep red "Emergency" border */
+	padding: 20px;
+	margin: 25px 0;
+	text-align: left;
+	box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.urgency-title {
+	color: #b71c1c;
+	font-weight: 900;
+	text-transform: uppercase;
+	font-size: 1.1em;
+	margin-bottom: 10px;
+	display: block;
+}
+
+.urgency-text {
+	font-style: italic;
+	font-weight: bold;
+	color: #222;
+	line-height: 1.5;
 }
 
 /* Logo styling */
@@ -82,10 +108,10 @@ h2 {
 
 /* --- Master Navigation Styling --- */
 .main-nav {
-	background-color: #0a0a0a; /* Sleek dark background */
-	padding: 20px 0;
-	margin-bottom: 40px;
-	border-bottom: 4px solid #0056b3; /* Thick 'Force' blue accent */
+	background-color: #0a0a0a;
+	padding: 8px 0;
+	margin-bottom: 15px;
+	border-bottom: 4px solid #0056b3;
 	box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
@@ -95,7 +121,7 @@ h2 {
 	display: flex;
 	justify-content: space-evenly;
 	align-items: center;
-	padding: 0 20px;
+	padding: 0 10px;
 }
 
 .nav-link {
