@@ -8,6 +8,7 @@ As mentioned in my author profile, you can access the digital editions of the Fo
 
 * 📖 [**Read: Hexagram Force: Vol 1**](https://kaltem-gibson.github.io/ebooks/hexagram-force-unified-field-theory.html)
 * 📖 [**Read: Hexagram Force: Vol 2**](https://kaltem-gibson.github.io/ebooks/hexagram-force-characteristics.html)
+* 📖 [**Read: Hexagram Force: Vol 3**](https://kaltem-gibson.github.io/ebooks/hexagram-force-blueprint.html)
 * 📖 [**Read: Unleash Your Telekinetic Ability**](https://kaltem-gibson.github.io/ebooks/unleash-your-telekinetic-ability.html)
 
 ---
@@ -70,7 +71,7 @@ The research contained in this archive—specifically the **Hexagram Force** ser
 ---
 
 ## Legal & Intellectual Property
-Copyright © 2025 by Kaltem M. Gibson. All Rights Reserved. 
+Copyright © 2001-2026 by Kaltem M. Gibson. All Rights Reserved. 
 
 The unauthorized modification, pirated distribution, or selective removal of these records is a violation of international intellectual property protections.
 
